@@ -15,6 +15,11 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[Languages.es]
+contentDir = "content/spanish"
+languageCode = "es-es"
+languageName = "Español"
+weight = 3
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
