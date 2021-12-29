@@ -9,17 +9,17 @@ contentDir = "content/english"
 languageCode = "en-us"
 languageName = "English"
 weight = 1
+[Languages.es]
+contentDir = "content/spanish"
+languageCode = "es-es"
+languageName = "Español"
+weight = 3
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[Languages.es]
-contentDir = "content/spanish"
-languageCode = "es-es"
-languageName = "Español"
-weight = 3
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
@@ -34,10 +34,6 @@ weight = 3
 name = "Contact"
 url = "contact"
 weight = 2
-[[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
 [[menu.main]]
 name = "Contact"
 url = "contact"
